@@ -1,5 +1,5 @@
 # philipaidanbooth.github.io
 
-## Prokect Links
+## Project Links
 [title](https://philipaidanbooth.github.io/test/)
-[Sudoku](README.md)
+[Sudoku](Sudoku/README.md)
