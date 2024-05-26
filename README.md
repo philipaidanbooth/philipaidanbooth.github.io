@@ -5,4 +5,4 @@
 
 [title2](https://github.com/philipaidanbooth/test/)
 
-[Sudoku](https://philipaidanbooth.github.io/Sudoku/)
+[Sudoku](https://philipaidanbooth.github.io/Sudoku/README.md)
