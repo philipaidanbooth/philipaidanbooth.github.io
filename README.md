@@ -2,4 +2,4 @@
 
 ## Project Links
 [title](https://philipaidanbooth.github.io/test/)
-[Sudoku](Sudoku/README.md)
+[Sudoku](https://philipaidanbooth.github.io/Sudoku/)
