@@ -5,4 +5,4 @@
 
 [Sudoku](https://philipaidanbooth.github.io/Sudoku/)
 
-[NFL Combine Report](FinalProject_ES218-copy.html)
+[NFL Combine Report](https://philipaidanbooth.github.io/FinalProject_ES218-copy.html/)
