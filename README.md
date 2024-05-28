@@ -8,5 +8,4 @@ Coding Project:
 
 
 R project:
-
-[NFL Combine Report](file:///Users/philipbooth/Downloads/nflFinal.html)
+<a href="file:///Users/philipbooth/Downloads/nflFinal.htmll">NFL Combine Report</a>)
