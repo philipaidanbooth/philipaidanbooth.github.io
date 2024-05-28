@@ -9,4 +9,4 @@ Coding Project:
 
 R project:
 
-[NFL Combine Report](https://github.com/philipaidanbooth/NFL-Combine-Project/main/nflFinal.html)
+[NFL Combine Report](file:///Users/philipbooth/Downloads/nflFinal.html)
