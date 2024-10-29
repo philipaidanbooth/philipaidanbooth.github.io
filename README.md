@@ -11,4 +11,4 @@ R project:
 
 [NFL Combine Report](https://philipaidanbooth.github.io/NFL-Combine-Report/nflFinal.html)
 
-[Marathon Exploratory Analysis](https://philipaidanbooth.github.io/MarathonExploratoryAnalysis/Marathon.html)
+[MarathonExploratoryAnalysis](https://philipaidanbooth.github.io/MarathonExploratoryAnalysis/Marathon.html)
