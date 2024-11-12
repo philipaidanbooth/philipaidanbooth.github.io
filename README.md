@@ -12,7 +12,9 @@ Marathon Project - (Exploratory Analysis, Python Graphs, Coding/Running Journal)
 
 
 
-Other Projects:
+
+
+Additional Projects:
 
 [NFL Combine Report](https://philipaidanbooth.github.io/NFL-Combine-Report/nflFinal.html)
 
