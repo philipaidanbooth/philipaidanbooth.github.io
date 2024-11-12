@@ -8,7 +8,7 @@ Marathon Project - (Exploratory Analysis, Python Graphs, Coding/Running Journal)
 
 [MarathonStats](https://philipaidanbooth.github.io/MarathonStats/Web.html)
 
-[Coding/Running Journal](https://philipaidanbooth.github.io/Coding_Journal/DailyReflection.html)
+[Code_Journal](https://philipaidanbooth.github.io/Coding_Journal/DailyReflection.html)
 
 
 
