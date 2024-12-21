@@ -20,4 +20,4 @@ Additional Projects:
 
 [Sudoku](https://philipaidanbooth.github.io/Sudoku/)
 
-[AlcoholMetabolismAssessment](https://philipaidanbooth.github.io/AlcoholMetabolismAssessment.html/)
+[AlcoholMetabolismAssessment](https://philipaidanbooth.github.io/AlcoholMetabolismAssessment.pdf/)
