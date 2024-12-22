@@ -21,3 +21,4 @@ Additional Projects:
 [Sudoku](https://philipaidanbooth.github.io/Sudoku/)
 
 [AlcoholMetabolismAssessment](https://philipaidanbooth.github.io/AlcoholMetabolismAssessment/AlcoholMetabolismAssessment.pdf)
+[CarPriceModel](https://philipaidanbooth.github.io/CarPriceModel/DataAnalysisReport-BoothLaRochelle.pdf)
