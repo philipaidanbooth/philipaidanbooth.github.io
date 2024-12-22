@@ -18,6 +18,12 @@ Marathon Project - (Exploratory Analysis, Python Graphs, Coding/Running Journal)
 
 ### Coding Projects:
 
+[RBFNET](https://philipaidanbooth.github.io/RBFNET/MNIST.html)
+
+[PCA_EigenLetters](https://philipaidanbooth.github.io/PCA_EigenLetters/eigenletters_project.html)
+
+[EmailSpamClassification](https://philipaidanbooth.github.io/EmailSpamClassification/naive_bayes.html)
+
 [Sudoku](https://philipaidanbooth.github.io/Sudoku/)
 
 
