@@ -22,7 +22,7 @@ Marathon Project - (Exploratory Analysis, Python Graphs, Coding/Running Journal)
 
 [PCA_EigenLetters](https://philipaidanbooth.github.io/PCA_EigenLetters/eigenletters_project.html)
 
-[EmailSpamClassification](https://philipaidanbooth.github.io/EmailSpamClassification/naive_bayes.html)
+[EmailSpamClassification](https://philipaidanbooth.github.io/EmailSpamClassification/naive_bayes_.html)
 
 [Sudoku](https://philipaidanbooth.github.io/Sudoku/)
 
