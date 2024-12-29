@@ -1,7 +1,3 @@
-##### philipaidanbooth.github.io
-
-## Project Portfolio
-
 
 ### Exploratory Analysis:
 
