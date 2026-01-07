@@ -1,5 +1,3 @@
 title: philipaidanbooth.github.io
-description: Project Portfolio
-show_downloads: true
-google_analytics:
-theme: 
+description: Projects, reports, and writeups
+theme: jekyll-theme-minimal
