@@ -1,7 +1,8 @@
 
 ## Recent Work 25/26
-
++ [MCP server](https://mcphub.com/mcp-servers/philipaidanbooth/logeion-mcp-server)
 + [Research Paper](https://philipaidanbooth.github.io/EthicsOfWebScraping/WebScrapingPhilipBooth.pdf)
++ [shakespeare_gpt](https://shakepseare-gpt.vercel.app/)
 
 ### **Marathon Project**
 + [Marathon Exploratory Analysis](https://philipaidanbooth.github.io/MarathonExploratoryAnalysis/Marathon.html) + exploratory analysis + graphs
