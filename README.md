@@ -1,7 +1,7 @@
 
 ## Recent Work 25/26
 
-+ [Research Paper](https://github.com/philipaidanbooth/EthicsOfWebScraping/CS310%20Final%20Draft%20Philip%20Booth.pdf)
++ [Research Paper](https://philipaidanbooth.github.io/EthicsOfWebScraping/WebScrapingPhilipBooth.pdf)
 
 ### **Marathon Project**
 + [Marathon Exploratory Analysis](https://philipaidanbooth.github.io/MarathonExploratoryAnalysis/Marathon.html) + exploratory analysis + graphs
